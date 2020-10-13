@@ -1,0 +1,3 @@
+/// @description
+
+death=false;

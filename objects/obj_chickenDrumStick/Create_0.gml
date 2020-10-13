@@ -1,0 +1,3 @@
+/// @description
+
+hpBoost=1;

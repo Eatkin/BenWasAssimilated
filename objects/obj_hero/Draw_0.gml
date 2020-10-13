@@ -1,0 +1,3 @@
+/// @description
+
+drawSpriteColour(Colour.Yellow);

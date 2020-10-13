@@ -1,0 +1,15 @@
+The project file for this game is released for personal use only. No code or assets may be used without permission.
+(This is mostly here to prevent re-releasing, if you actually want to use something within, feel free to message me)
+
+Edward Atkin - programmer and game design
+Richard Kerry - music
+Benjamin Fearn - co-designer
+Kenney.nl for all graphics (free to use and public domain)
+
+Derbyshire slang references:
+http://www.near-chesterfield-derbyshire.com/derbyshire-dialect.html
+https://www.derbytelegraph.co.uk/news/derby-news/dictionary-of-derbyshire-words-sayings-1337030
+
+Tools used (both by Cedric Stoquer):
+Bleeper	(sounds)						https://pixwlk.itch.io/bleeper
+Pata Tracker (chiptunes)				https://pixwlk.itch.io/pata-tracker

@@ -1,0 +1,1 @@
+/// @description Boss doesn't drop things
