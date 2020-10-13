@@ -2327,6 +2327,14 @@
             }
         },
         {
+            "Key": "eabc4aed-2a74-4064-9ef1-3aac87045e85",
+            "Value": {
+                "id": "11b1b5d2-d536-4e7e-8a80-77737db344ca",
+                "resourcePath": "datafiles_yy\\Licences.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "ead7cc38-b2f0-44f9-84a5-4f77316464e8",
             "Value": {
                 "id": "c313db36-8ac3-467e-be13-4cfd3727c3e7",
@@ -2410,7 +2418,7 @@
             "Key": "f1da2b64-8bfa-42b2-8cd9-fa3eb7692927",
             "Value": {
                 "id": "0fa94141-9e21-49c4-9f3a-4562d8b30ce2",
-                "resourcePath": "notes\\LICENCE USE OF AND CREDITS.yy",
+                "resourcePath": "notes\\Credits.yy",
                 "resourceType": "GMNotes"
             }
         },

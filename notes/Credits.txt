@@ -1,6 +1,3 @@
-The project file for this game is released for personal use only. No code or assets may be used without permission.
-(This is mostly here to prevent re-releasing, if you actually want to use something within, feel free to message me)
-
 Edward Atkin - programmer and game design
 Richard Kerry - music
 Benjamin Fearn - co-designer
