@@ -18,7 +18,7 @@ if (os_browser!=browser_not_a_browser)	{
 	var displayWidth=display_get_width();
 	var displayHeight=display_get_height();
 
-	while (windowWidth*(scale)<displayWidth and windowHeight*(scale)<displayHeight)
+	while (windowWidth*(scale+1)<=displayWidth and windowHeight*(scale+1)<=displayHeight)
 		scale+=1;
 
 	window_set_size(windowWidth*scale,windowHeight*scale);
