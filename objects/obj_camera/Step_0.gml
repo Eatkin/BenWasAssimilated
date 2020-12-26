@@ -30,3 +30,13 @@ if (death)	{
 }
 else
 	death=false;
+	
+if (screenshotting and room==rm_game)	{
+	camx=480*(screenshotTimer%hrepeats);
+	camy=222*floor(screenshotTimer/hrepeats);
+	camera_set_view_pos(cam,camx,camy);
+	screenshotTimer+=1;
+	//End game when we're done otherwise we continue screenshotting the void forever
+	if (camy>room_height)
+		game_end();
+}
