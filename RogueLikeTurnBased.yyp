@@ -879,6 +879,14 @@
             }
         },
         {
+            "Key": "508a8ef2-dd04-431a-835b-7542b2dc8a0c",
+            "Value": {
+                "id": "e027e996-10ad-46f8-9e06-32ece824bb13",
+                "resourcePath": "datafiles_yy\\Licences.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "508d53d0-fec8-4889-8fb0-10b355ffa0e6",
             "Value": {
                 "id": "ed964fc7-aba7-4ad7-985c-46144ca8bc2f",
@@ -2324,14 +2332,6 @@
                 "id": "45fbe3e7-a3bc-4496-8841-e43df847ba68",
                 "resourcePath": "scripts\\tileCollision\\tileCollision.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "eabc4aed-2a74-4064-9ef1-3aac87045e85",
-            "Value": {
-                "id": "11b1b5d2-d536-4e7e-8a80-77737db344ca",
-                "resourcePath": "datafiles_yy\\Licences.txt.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {

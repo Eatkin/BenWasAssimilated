@@ -1,17 +1,3 @@
-This work by Edward Atkin is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0
-
-Work by Edward Atkin includes all code and some audio, outlined below.
-
-This work may be remixed, adapted and used as you see fit for non-commercial purposes. The original work must be credited.
-
-Audio created by Edward Atkin:
--mus_chiptune
--mus_gameboy
--mus_gameover
--mus_end
-All sounds within the "sounds" folder, i.e. all those preceded with "snd_"
-
-All other music is provided by Richard Kerry and those do not fall under that licence:
-https://richardkerry.bandcamp.com/
+All rights reserved Edward Atkin and Richard Kerry, with exceptions outlined below:
 
 All graphical assets are produced by kenney.nl and are public domain.
